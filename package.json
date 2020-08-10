@@ -1,0 +1,13 @@
+{
+  "name": "babelstone-parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "b": "node index.js"
+  },
+  "keywords": [],
+  "author": "sawich <sawich@angeldev.org>",
+  "license": "ISC",
+  "dependencies": {}
+}
